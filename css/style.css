@@ -1,0 +1,23 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+        height: 200vh;
+        background-image: url(../assets/img/main/wave.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+}
+
+header {
+    height: 5vh;
+}
+
+main {
+    height: 140vh;
+}
+
+footer {
+    height: 5vh;
+}
