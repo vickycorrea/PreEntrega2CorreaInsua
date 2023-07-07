@@ -14,11 +14,11 @@ body {
     height: 200vh;
     background-image: url(../assets/img/main/wave.png);
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 header {
-    height: 5vh;
+    height: 7vh;
 }
 
 .logo {
@@ -30,9 +30,9 @@ header nav {
 }
 
 main {
-    height: 140vh;
+    height: 190vh;
 }
 
 footer {
-    height: 5vh;
+    height: 3vh;
 }
