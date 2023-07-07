@@ -3,15 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@font-face{
+    font-family: "dogica";
+    src: url("../assets/fonts/dogica/dogica.ttf");
+}
+
 body {
-        height: 200vh;
-        background-image: url(../assets/img/main/wave.png);
-        background-size: 100%;
-        background-repeat: no-repeat;
+    font-family: dogica;
+    height: 200vh;
+    background-image: url(../assets/img/main/wave.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 header {
     height: 5vh;
+}
+
+.logo {
+    transform: translateX(-2px);
+}
+
+header nav {
+    background-color: transparent;
 }
 
 main {
