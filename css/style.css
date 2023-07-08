@@ -23,6 +23,7 @@ header {
 
 .logo {
     transform: translateX(-2px);
+    transform: translateY(2px);
 }
 
 header nav {
@@ -31,6 +32,10 @@ header nav {
 
 main {
     height: 190vh;
+}
+
+.chupapi {
+    transform: translateY(-10vh);
 }
 
 footer {
