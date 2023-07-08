@@ -11,7 +11,7 @@
 
 body {
     font-family: dogica;
-    height: 200vh;
+    height: 150vh;
     background-image: url(../assets/img/main/wave.png);
     background-size: 100%;
     background-attachment: fixed;
@@ -31,11 +31,7 @@ header nav {
 }
 
 main {
-    height: 190vh;
-}
-
-.chupapi {
-    transform: translateY(-10vh);
+    height: 140vh;
 }
 
 footer {
