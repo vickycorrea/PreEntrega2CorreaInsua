@@ -14,7 +14,7 @@ body {
     height: 200vh;
     background-image: url(../assets/img/main/wave.png);
     background-size: 100%;
-    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
 
 header {
